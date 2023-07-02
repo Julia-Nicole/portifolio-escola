@@ -1,0 +1,98 @@
+body {
+    background-color: #FCF7EC;
+    max-width: 1900px;
+    margin: 0 auto;
+    
+}
+
+header {
+    background-color: #D5E4CF;
+    padding: 10px 10px;
+}
+
+.caixa1 img {
+ border-radius: 100%;
+ width: 20%;
+ margin-left: 42%;
+}
+
+.caixa2 img {
+    width: 20%;
+    border-radius: 2%;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-right: 100px;
+}
+
+.caixa2  {
+    font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Lora', serif;
+    display: flex;
+    text-align: center;
+}
+
+.caixa2 h1 {
+    text-align: center;
+    justify-content: flex-end;
+    font-family: 'Teko', sans-serif;
+}
+
+.botao {
+    color: rgb(228, 218, 247);
+    background-color: rgb(159, 129, 176);
+    border-radius: 08%;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+.botao:hover {
+    background-color: rgb(196, 189, 243);
+}
+
+.caixaa {
+    text-align: center;
+    margin-top: 90px;
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+}
+
+.pjs {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+    justify-content: space-between;
+    
+}
+.pjs ul {
+    list-style: none;
+}
+ 
+.pjs img {
+    width: 80px;
+    border-radius: 100%;
+    margin-right: 20px;
+    
+   
+}
+
+.pjs a {
+    color: #f212d8;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pjs li {
+margin-top: 15px;
+}
+
+footer {
+    background-color: #D5E4CF;
+    margin-top: 200px;
+}
+
+.final img {
+border-radius: 100%;
+width: 10%;
+margin-left: 45%;
+}
